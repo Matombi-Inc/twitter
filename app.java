@@ -6,4 +6,4 @@
 echo "Today's date:"
 date
 
-For our Twitter project
+# For our Twitter project
