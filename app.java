@@ -5,3 +5,5 @@
 # Author: Gauthier Matombi
 echo "Today's date:"
 date
+
+For our Twitter project
